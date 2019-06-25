@@ -1,1 +1,3 @@
 .terraform
+config-map-aws-auth_test-eks-LTffbSZn.yaml
+kubeconfig_test-eks-LTffbSZn
